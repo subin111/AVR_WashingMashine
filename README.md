@@ -13,10 +13,12 @@
 ## 1. 프로젝트 개요
 
 * 추진 배경
+  
   -ATmega128A로 세탁기 구현
   -AVR 보드인 ATmega128a의 학습과정을 총정리 하는 팀프로젝트
 
 * 구현 목표 및 내용
+  
   -여닫이 문 닫혔을 시에만 모드 시작
   -전원 버튼 구현
   -세탁기 기능 구현 [세탁, 헹굼, 탈수]
@@ -25,7 +27,7 @@
 
 * 개발 구성도
   
-  ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/42ee1f05-c0ff-4dea-9caf-6130f750d806)
+  ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4)
 
 
   ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb)
