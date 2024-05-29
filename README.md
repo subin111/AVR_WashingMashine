@@ -24,9 +24,12 @@
   -모드 종료 시 종료 음 구현
 
 * 개발 구성도
+  
   ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/42ee1f05-c0ff-4dea-9caf-6130f750d806)
 
-  ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/280a737a-0916-4a19-ab6a-eb071a427798)
+
+  ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb)
+
 
 
 * 
