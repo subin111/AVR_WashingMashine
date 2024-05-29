@@ -38,10 +38,10 @@
 
 * 개발 환경 및 장비
 
-  Board : ATmega128a
-  Use to : 초음파 센서, 부저, lcd, dc모터
-  Language : C
-  Library : CodeVisionAVR(사용 프로그램)
+  Board : ATmega128a   
+  Use to : 초음파 센서, 부저, lcd, dc모터    
+  Language : C    
+  Program : CodeVisionAVR     
 
   
 ## 2. 팀 구성 및 역할
