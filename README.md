@@ -30,10 +30,10 @@
   
 * 개발 구성도
   
-  ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4){: width="50%" height="50%"}
+  <img = src"https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4"width="50%" height="50%"/>
 
 
-  ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb){: width="50%" height="50%"}
+  <img = src"https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb"width="50%" height="50%"/>
 
    
 * 개발 환경 및 장비
@@ -78,7 +78,7 @@
    * 고속 PWM 모드
    * 타이머/카운터 0
         
-![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/f183d7d0-4a3a-4bcb-8db5-2a2c44d2c38d){: width="50%" height="50%"}
+<img = src"https://github.com/subin111/AVR_WashingMashine/assets/143717650/f183d7d0-4a3a-4bcb-8db5-2a2c44d2c38d"width="50%" height="50%"/>
 
      -  모드 1: 세탁(세탁+헹굼+탈수)
      -  모드 2: 헹굼(헹굼+탈수)
@@ -92,7 +92,7 @@
      - 스위치 4를 한 번 더 누르면 모드 시작 및 재시작
 
 
-![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/5bf8f938-e1f8-4a78-afe6-92224817af69){: width="50%" height="50%"}
+<img = src"https://github.com/subin111/AVR_WashingMashine/assets/143717650/5bf8f938-e1f8-4a78-afe6-92224817af69"width="50%" height="50%"/>
 
    
 ### 4. Buzzer로 종료음 구현 (부가 기능)
