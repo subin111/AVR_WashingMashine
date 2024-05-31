@@ -92,7 +92,7 @@
      - 스위치 4를 한 번 더 누르면 모드 시작 및 재시작
 
 
-<img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/5bf8f938-e1f8-4a78-afe6-92224817af69" width="200" height="400"/>
+<img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/5bf8f938-e1f8-4a78-afe6-92224817af69" width="350" height="600"/>
 
    
 ### 4. Buzzer로 종료음 구현 (부가 기능)
