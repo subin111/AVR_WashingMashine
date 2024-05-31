@@ -112,6 +112,11 @@
 
      <img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/ec63aa73-9e5f-4f45-bbb8-bb9432db244f" width="500" height="400"/>
 
+   * 세탁기 구현 결과 영상
+
+     ![1ohcB](https://github.com/subin111/AVR_WashingMashine/assets/143717650/bfbd4ddf-d25d-46cf-8ce8-4844ba28cb04)
+
+
 
     
 ## 6. 프로젝트 결론
