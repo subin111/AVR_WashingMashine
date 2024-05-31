@@ -106,11 +106,11 @@
 
    * 프로토타입 윗면 외부 모습
 
-     <img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/36be231b-9710-4923-95be-84169145746b" width="200" height="400"/>
+     <img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/36be231b-9710-4923-95be-84169145746b" width="500" height="400"/>
 
    * 세탁기 구동 내부 모습
 
-     <img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/ec63aa73-9e5f-4f45-bbb8-bb9432db244f" width="200" height="400"/>
+     <img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/ec63aa73-9e5f-4f45-bbb8-bb9432db244f" width="500" height="400"/>
 
 
     
