@@ -96,19 +96,42 @@
 ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/5bf8f938-e1f8-4a78-afe6-92224817af69)
 
    
+### 4. Buzzer로 종료음 구현 (부가 기능)
 
-
-
-#### 2. Pause / restart(start)
-#### 3. Ultrasound sensor를 통한 거리 측정
-#### 4. Buzzer로 종료음 구현 (부가 기능)
-
-
-
-
+   * 타이머/카운터 1
+   * sound(): OCR1A 레지스터에 옥타브(행)에 따른 음의 높낮이 값(열)을 저장
+   * bgm(): sound(몇 옥타브, 몇 번째 음), delay_ms()를 통해 종료음 재생
+    
 
 ## 5. 프로젝트 결과
+
+   * 프로토타입 윗면 외부 모습
+
+         ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/36be231b-9710-4923-95be-84169145746b)
+
+   * 세탁기 구동 내부 모습
+
+         ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/ec63aa73-9e5f-4f45-bbb8-bb9432db244f)
+
+
+    
 ## 6. 프로젝트 결론
+
+   * 결론
+     
+     - 핵심 기능인 초음파 센싱, 1스위치로 3모드 구현 및 dc 모터의 작동, 일시 정지 기능 모두 알맞게 구현됨
+     - 세부 기능인 부저 종료음 구현이 완벽하게 구현되지 않은 한계점
+     - 세탁기를 이루는 각 모듈과 회로, 코드에 대한 이해도를 높일 수 있었으며 또한 타이머/카운터의 활용 방식에 대해 배울 수 있었음.
+
+
+  * 추가 계획
+
+      1. 부저 종료음이 특정음에서 멈추는 문제를 해결
+      2. 세탁, 헹굼, 탈수 모드의 강약 조절 버튼 추가
+      3. 탈수 시간을 설정한 후 타이머처럼 시간이 주는 display 구현
+
+
+
 
    
 
