@@ -30,10 +30,10 @@
   
 * 개발 구성도
   
-<p align="center"><img src = "https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4" width="400" height="300"/>
+<img src = "https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4" width="400" height="300"/>
 
 
-  <img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb" width="200" height="300"/></p>
+  <img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb" width="200" height="300"/>
 
    
 * 개발 환경 및 장비
@@ -114,7 +114,7 @@
 
    * 세탁기 구현 결과 영상
 
-     <p align="center">![1ohcB](https://github.com/subin111/AVR_WashingMashine/assets/143717650/bfbd4ddf-d25d-46cf-8ce8-4844ba28cb04)</p>
+     ![1ohcB](https://github.com/subin111/AVR_WashingMashine/assets/143717650/bfbd4ddf-d25d-46cf-8ce8-4844ba28cb04)
 
 
 
