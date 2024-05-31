@@ -96,8 +96,18 @@
 ### 핵심 기술
 
 
-    #### 1. 3 모드 – dc 모터 제어 
-    #### 2. Pause / restart(start) 
+#### 1. 3 모드 – dc 모터 제어
+
+
+   ![image](https://github.com/subin111/AVR_WashingMashine/assets/143717650/f377584a-56ee-47bb-bc3f-b4843ea58cee)
+
+
+
+#### 2. Pause / restart(start)
+#### 3. Ultrasound sensor를 통한 거리 측정
+#### 4. Buzzer로 종료음 구현 (부가 기능)
+
+
 
 
 
