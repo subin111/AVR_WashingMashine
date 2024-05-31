@@ -30,10 +30,10 @@
   
 * 개발 구성도
   
-  <center><img src = "https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4" width="400" height="300"/></center>center>
+<p align="center"><img src = "https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4" width="400" height="300"/>
 
 
-  <img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb" width="200" height="300"/></center>
+  <img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb" width="200" height="300"/></p>
 
    
 * 개발 환경 및 장비
@@ -78,7 +78,7 @@
    * 고속 PWM 모드
    * 타이머/카운터 0
         
-<center><img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f183d7d0-4a3a-4bcb-8db5-2a2c44d2c38d" width="200" height="300"/></center>
+<p align="center"><img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f183d7d0-4a3a-4bcb-8db5-2a2c44d2c38d" width="200" height="300"/></p>
 
      -  모드 1: 세탁(세탁+헹굼+탈수)
      -  모드 2: 헹굼(헹굼+탈수)
@@ -92,7 +92,7 @@
      - 스위치 4를 한 번 더 누르면 모드 시작 및 재시작
 
 
-<center><img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/5bf8f938-e1f8-4a78-afe6-92224817af69" width="350" height="600"/></center>
+<p align="center"><img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/5bf8f938-e1f8-4a78-afe6-92224817af69" width="350" height="600"/></p>
 
    
 ### 4. Buzzer로 종료음 구현 (부가 기능)
@@ -106,15 +106,15 @@
 
    * 프로토타입 윗면 외부 모습
 
-     <center><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/36be231b-9710-4923-95be-84169145746b" width="500" height="400"/></center>
+     <p align="center"><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/36be231b-9710-4923-95be-84169145746b" width="500" height="400"/></p>
 
    * 세탁기 구동 내부 모습
 
-     <center><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/ec63aa73-9e5f-4f45-bbb8-bb9432db244f" width="500" height="400"/></center>
+     <p align="center"><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/ec63aa73-9e5f-4f45-bbb8-bb9432db244f" width="500" height="400"/></p>
 
    * 세탁기 구현 결과 영상
 
-     <center>![1ohcB](https://github.com/subin111/AVR_WashingMashine/assets/143717650/bfbd4ddf-d25d-46cf-8ce8-4844ba28cb04)</center>
+     <p align="center">![1ohcB](https://github.com/subin111/AVR_WashingMashine/assets/143717650/bfbd4ddf-d25d-46cf-8ce8-4844ba28cb04)</p>
 
 
 
