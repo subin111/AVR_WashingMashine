@@ -30,7 +30,7 @@
   
 * 개발 구성도
   
-<img src = "https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4" width="450" height="350"/>
+   <img src = "https://github.com/subin111/AVR_WashingMashine/assets/143717650/45bfce79-039c-4151-9fff-d62b2994d9d4" width="450" height="350"/>
 
 
   <img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f457467f-6167-4546-a495-c93cb839f5eb" width="250" height="350"/>
