@@ -105,17 +105,13 @@
 
 ## 5. 프로젝트 결과
 
-   * 프로토타입 윗면 외부 모습
+   * 프로토타입 윗면 외부, 구동 내부
 
-     <p align="center"><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/36be231b-9710-4923-95be-84169145746b" width="500" height="400"/></p>
-
-   * 세탁기 구동 내부 모습
-
-     <p align="center"><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/ec63aa73-9e5f-4f45-bbb8-bb9432db244f" width="500" height="400"/></p>
+     <img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/36be231b-9710-4923-95be-84169145746b" width="500" height="400"/><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/ec63aa73-9e5f-4f45-bbb8-bb9432db244f" width="500" height="400"/></p>
 
    * 세탁기 구현 결과 영상
 
-   <p align="center"><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/bfbd4ddf-d25d-46cf-8ce8-4844ba28cb04" width="200" height="200"/></p>
+   <p align="center"><img src="https://github.com/subin111/AVR_WashingMashine/assets/143717650/77f51dbf-a19e-42fd-8059-4a2762a9864d" width="200" height="200"/></p>
 
 
 
