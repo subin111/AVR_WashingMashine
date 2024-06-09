@@ -78,7 +78,7 @@
    * 고속 PWM 모드
    * 타이머/카운터 0
         
-<p align="center"><img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f183d7d0-4a3a-4bcb-8db5-2a2c44d2c38d" width="150" height="250"/></p>
+<p align="center"><img src ="https://github.com/subin111/AVR_WashingMashine/assets/143717650/f183d7d0-4a3a-4bcb-8db5-2a2c44d2c38d" width="200" height="300"/></p>
 
      -  모드 1: 세탁(세탁+헹굼+탈수)
      -  모드 2: 헹굼(헹굼+탈수)
