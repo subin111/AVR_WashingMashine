@@ -1,7 +1,7 @@
 # AVR_WashingMashine
   ATmega128a 보드를 활용한 AVR 미니 세탁기 
   
-## 목차
+## 목차 
    
 01. 개요
 02. 팀 구성 및 역할
